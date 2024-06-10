@@ -1,0 +1,31 @@
+
+
+
+Interview Programs
+
+
+swapping the numbers
+
+    a=10;
+    b=20;
+
+  output
+
+    a=20;
+    b=10;
+
+
+  Factorial
+  5!
+
+  1*2*3*4*5 =120
+
+ 1 * 1  =1
+ 1 * 2  =2
+2*3 =6
+4
+5
+
+
+
+
